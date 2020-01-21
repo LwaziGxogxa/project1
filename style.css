@@ -1,0 +1,289 @@
+body{
+  margin: 0;
+
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 100%;
+}
+
+h1{
+  margin-top: 0;
+  font-size: 5rem;
+  margin: 100px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+  text-align: center;
+}
+h2{
+  font-size: 3rem;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
+.p1{
+  position: absolute;
+  left: 300px;
+  top: 200px;
+  text-align: justify;
+}
+.p2{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+  text-align: justify;
+}
+
+
+
+.first-container{
+  position: relative;
+  background-color: brown;
+  padding-top: 100px;
+  height: 300px;
+
+}
+.PROFILE_ref{
+  position: absolute;
+  right:880px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.EDUCATION_ref{
+  position: absolute;
+  right:720px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.EXPERIENCE_ref{
+  position: absolute;
+  right:550px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.SKILLS_ref{
+  position: absolute;
+  right:440px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.INTERESTS_ref{
+  position: absolute;
+  right:300px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.AWARDS_ref{
+  position: absolute;
+  right:180px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.PROJECTS_ref{
+  position: absolute;
+  right:40px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.profile-container{
+  position: relative;
+}
+.lwaziimage{
+  width: 200px;
+  padding-top: 200px;
+  padding-left: 20px;
+  padding-bottom: 100px;
+
+}
+.lwaziimage{
+
+
+}
+
+.profile-container{
+  position: relative;
+}
+
+.Education-container{
+  position: relative;
+  background-color: white;
+  height: 550px;
+}
+
+.h3-Education-Sinior-Certificate{
+  position: absolute;
+  top: 180px;
+  left: 1300px;
+}
+.Education-Table-Sinior-Certificate{
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+
+.h3-Education-Bsc{
+  position: absolute;
+  top: 280px;
+  left: 1300px;
+}
+.Education-Table-Bsc{
+  position: absolute;
+  top: 300px;
+  left: 20px;
+}
+
+.h3-Education-Honours{
+  position: absolute;
+  top: 380px;
+  left: 1300px;
+}
+.Education-Table-Honours{
+  position: absolute;
+  top: 400px;
+  left: 20px;
+}
+
+
+.Experience-container{
+  position: relative;
+  background-color: green;
+  height: 600px;
+}
+.h3-Experience1{
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  font-size: 2rem;
+  font-weight: normal;
+}
+.list-Experience1{
+  position: absolute;
+  top: 220px;
+  left: 20px;
+}
+.h3-Experience2{
+  position: absolute;
+  top: 300px;
+  left: 20px;
+  font-size: 2rem;
+  font-weight: normal;
+}
+.list-Experience2{
+  position: absolute;
+  top: 370px;
+  left: 20px;
+}
+.Skills-container{
+  position: relative;
+  background-color: white;
+  height: 400px;
+}
+.Skills-table1{
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+.Skills-table2{
+  position: absolute;
+  top: 150px;
+  left: 600px;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+.Interests-container{
+  position: relative;
+  background-color: #F7F6EF;
+  height: 400px;
+}
+.list-Interests{
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+.Awards-container{
+  position: relative;
+  background-color: white;
+  height: 300px;
+}
+.Projects-container{
+  position: relative;
+  background-color: #F7F6EF;
+  height: 300px;
+}
+.Footer-container{
+  position: relative;
+  background-color: #F7F6EF;
+  height: 300px;
+}
+
+
+
+
+
+
+
+.top-container{
+  background-color: #c5f0a4;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.midle-container{
+  background-color: brown;
+  position: relative;
+  height: 200px;
+}
+
+
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.image1{
+  position: absolute;
+  right: 30px;
+  top: 50px;
+  width: 25%;
+}
+.image2{
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+}
+.image3{
+
+}
+
+
+
+
+
+
+
+.splitting-container{
+    background-color: #F7F6EF;
+
+}
